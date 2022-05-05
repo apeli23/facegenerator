@@ -49,7 +49,7 @@ export default function Home() {
     }
     useEffect(() => {
         changeHandler()
-    });
+    },[]);
 
     return (
         <div className="row">
