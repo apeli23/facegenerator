@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "axios": "^0.27.2",
+    "cloudinary": "^1.29.1",
+    "html2canvas": "^1.4.1",
+    "jquery": "^3.6.0",
     "next": "12.1.6",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "use-react-screenshot": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "8.14.0",
