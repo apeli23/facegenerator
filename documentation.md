@@ -1,4 +1,4 @@
-### Extract webcam tecxt with Next.js
+### Generate AI face with Nextjs
 
 
 ## Introduction
